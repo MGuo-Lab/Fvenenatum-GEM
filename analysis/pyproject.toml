@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fbaval"
+version = "1.1.0"
+description = "Comparison of the Draft and Curated (iJL1143) Fusarium venenatum models with batch fermentation data"
+requires-python = ">=3.10"
+dependencies = [
+    "fven-gem",   # ../gem, installed alongside (see the README)
+    "numpy",
+    "pandas",
+    "scipy",
+    "openpyxl",
+    "matplotlib",
+]
+
+[project.optional-dependencies]
+memote = ["memote==0.17.0"]
+raw = ["olefile"]            # reading the raw HPLC data files (fbaval.lcd)
+dev = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
