@@ -1,0 +1,15 @@
+# Versions used for the results in this repository (Python 3.12).
+cobra==0.32.1
+optlang==1.9.1
+swiglpk==5.0.13
+numpy==2.5.3
+pandas==2.3.3
+scipy==1.18.1
+matplotlib==3.11.2
+openpyxl==3.1.5
+olefile==0.47
+memote==0.17.0
+equilibrator-api==0.8.1
+equilibrator-cache==0.8.1
+biopython==1.88
+pytest==9.1.1

@@ -1,0 +1,11 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+# downloaded and intermediate files of the reconstruction (gem/download_data.py, curate_model.py, orthology job)
+gem/raw_data/
+gem/build/
+gem/orthology/
+gem/logs/
+# raw instrument files, if linked into the repository
+raw/

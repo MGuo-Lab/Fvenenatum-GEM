@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use iJL1143 or this code, please cite the paper below."
+title: "Fvenenatum-GEM: iJL1143, a genome-scale metabolic model of Fusarium venenatum A3/5"
+version: 1.1.0
+date-released: 2026-11-16
+authors:
+  - family-names: Lee
+    given-names: Jaewook
+    affiliation: "Department of Engineering, King's College London"
+  - family-names: Vinestock
+    given-names: Thomas
+    affiliation: "Department of Engineering, King's College London"
+  - family-names: Guo
+    given-names: Miao
+    affiliation: "Department of Engineering, King's College London"
+repository-code: "https://github.com/MGuo-Lab/Fvenenatum-GEM"
+keywords:
+  - genome-scale metabolic model
+  - Fusarium venenatum
+  - mycoprotein
+  - dynamic flux balance analysis
+  - model curation
+  - batch fermentation
+preferred-citation:
+  type: article
+  title: "Rule-based curation and validation in batch fermentation of a genome-scale metabolic model of the mycoprotein fungus Fusarium venenatum A3/5"
+  authors:
+    - family-names: Lee
+      given-names: Jaewook
+    - family-names: Vinestock
+      given-names: Thomas
+    - family-names: Guo
+      given-names: Miao
+  year: 2026
