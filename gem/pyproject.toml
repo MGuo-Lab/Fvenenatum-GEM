@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fven-gem"
+version = "1.1.0"
+description = "Reconstruction, curation and dFBA code of iJL1143, the genome-scale metabolic model of Fusarium venenatum A3/5"
+requires-python = ">=3.10"
+dependencies = [
+    "cobra>=0.29",
+]
+
+[project.optional-dependencies]
+curation = ["equilibrator-api==0.8.1"]   # reversibility index for the directionality rules (curate_model.py)
+release = ["biopython>=1.80"]           # Smith-Waterman check of unmapped subunits (check_unmapped_subunits.py)
+dev = ["pytest>=7.0"]
+
+# Flat layout: the modules live in this folder and are imported by name (import curate_model, from dfba import ...).
+[tool.setuptools]
+py-modules = [
+    "build_draft_model",
+    "calibrate_model",
+    "egc_test",
+    "curate_model",
+    "dfba_kinetics",
+    "dfba",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
