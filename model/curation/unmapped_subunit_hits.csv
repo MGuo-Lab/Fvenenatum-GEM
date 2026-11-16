@@ -1,0 +1,28 @@
+template_gene,query_aa,rank,hit,hit_name,identity_pct,query_coverage_pct,score,meets_thresholds
+An05g02310,347,1,A0A2L2TRN1,Mannosyl phosphorylinositol ceramide synthase SUR1,27.9,80.7,273,False
+An05g02310,347,2,A0A2L2TEZ6,Glycosyltransferase family 32 protein,24.4,21.3,81,False
+An05g02310,347,3,A0A2L2TT02,F-box domain-containing protein,34.8,19.0,78,False
+An09g00100,302,1,A0A2L2TRN1,Mannosyl phosphorylinositol ceramide synthase SUR1,28.2,59.3,184,False
+An09g00100,302,2,A0A2L2TEZ6,Glycosyltransferase family 32 protein,22.7,58.9,101,False
+An09g00100,302,3,A0A2L2SR26,"Alpha 1,6-mannosyltransferase",28.8,37.4,97,False
+An09g01820,539,1,A0A2L2TB78,AMP-dependent synthetase/ligase domain-containing protein,36.6,97.8,800,False
+An09g01820,539,2,A0A2L2TNI8,AMP-dependent synthetase/ligase domain-containing protein,34.4,100.0,755,False
+An09g01820,539,3,A0A2L2TJW2,AMP-dependent synthetase/ligase domain-containing protein,33.9,98.7,603,False
+An09g01860,2617,1,A0A2L2T9N6,Polyketide synthase,27.5,97.6,2060,False
+An09g01860,2617,2,A0A2L2TDU4,Uncharacterized protein,24.8,68.8,1249,False
+An09g01860,2617,3,A0A2L2TCR7,Uncharacterized protein,23.8,68.2,902,False
+An09g03020,281,1,A0A2L2SNB0,Radical SAM core domain-containing protein,41.9,84.0,430,True
+An09g03020,281,2,A0A2L2TI43,Nop domain-containing protein,26.7,36.7,85,False
+An09g03020,281,3,A0A2L2T8C3,Vegetative cell wall protein gp1,26.7,35.9,82,False
+An10g00180,257,1,A0A2L2TJ97,Cupin 2 conserved barrel domain-containing protein,24.9,79.0,126,False
+An10g00180,257,2,A0A2L2ST08,Cupin type-2 domain-containing protein,34.3,26.1,73,False
+An10g00180,257,3,A0A2L2TKS6,Cupin type-2 domain-containing protein,24.7,36.2,71,False
+An11g07330,414,1,A0A2L2TK49,FAD-binding domain-containing protein,26.5,97.1,271,False
+An11g07330,414,2,A0A2L2TJ20,FAD-binding domain-containing protein,27.2,89.1,186,False
+An11g07330,414,3,A0A2L2SPE9,FAD-binding domain-containing protein,25.5,84.3,161,False
+An12g01120,88,1,A0A2L2TNV3,Molybdopterin synthase sulfur carrier subunit,52.9,93.2,211,True
+An12g01120,88,2,A0A2L2TRJ7,Isopropylmalate dehydrogenase-like domain-containing protein,35.9,43.2,62,False
+An12g01120,88,3,A0A2L2TAN3,Uncharacterized protein,39.4,37.5,62,False
+An16g04960,341,1,A0A2L2T2T6,"Carbamoyl phosphate synthase arginine-specific large chain, mitochondrial",77.3,100.0,1382,True
+An16g04960,341,2,A0A2L2SSM9,Pyrimidine-specific carbamoyl phosphate synthase-aspartate carbamoyl transferase,43.7,92.7,612,True
+An16g04960,341,3,A0A2L2TRC1,Uncharacterized protein,23.9,30.8,69,False

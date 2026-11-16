@@ -1,0 +1,62 @@
+gene,kind,action,reactions,reason
+OLD_An12g01120,unmapped complex subunit,replaced by A0A2L2TNV3,r2328,"molybdopterin synthase sulfur carrier subunit; the hit has the same UniProt function and meets the thresholds, and it pairs with paralogue An13g01070, which is not in the template"
+OLD_An16g04960,unmapped complex subunit,dropped from GPR,r479,fragment of the carbamoyl phosphate synthase large chain; the hit covers all of it and is already in the GPR through An16g04970
+OLD_An09g03020,unmapped complex subunit,dropped from GPR,r2329,"the template rule is (subunit and An03g02930) or An03g02930, so the rule reduces to A0A2L2T4R4 whatever the subunit maps to"
+OLD_An05g02310,unmapped complex subunit,dropped from GPR,r856 r857,"below the thresholds; nearest protein is SUR1, already in the GPR"
+OLD_An09g00100,unmapped complex subunit,dropped from GPR,r856 r857,"below the thresholds; nearest protein is SUR1, already in the GPR"
+OLD_An09g01820,unmapped complex subunit,dropped from GPR,r1998,"A. niger secondary metabolism; below the thresholds, family homologue only"
+OLD_An09g01860,unmapped complex subunit,dropped from GPR,r1997,"A. niger secondary metabolism; below the thresholds, family homologue only"
+OLD_An10g00180,unmapped complex subunit,dropped from GPR,r2003,A. niger secondary metabolism; below the thresholds
+OLD_An11g07330,unmapped complex subunit,dropped from GPR,r1953,"A. niger secondary metabolism; below the thresholds, family homologue only"
+An15g02820,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An07g01290,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An04g06920,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g06830,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An08g10870,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g09930,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g14530,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An12g10140,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g14880,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An16g01720,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g03480,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g14740,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An07g00450,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An12g03440,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An05g02000,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g05040,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g04260,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An11g02500,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An10g00140,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An16g02750,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An10g00130,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An10g00160,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An10g00190,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An12g08950,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An14g04280,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An13g01840,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+Unknown5,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An11g05580,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An04g09540,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An14g05350,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An11g00300,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An11g00270,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An11g00350,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An11g07340,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An09g01830,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An09g01920,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An14g02080,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g01560,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An08g11030,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An02g02820,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An03g00480,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An13g03940,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An13g02640,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An08g07740,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An04g04370,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An08g02310,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An01g01620,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An15g07190,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An12g10320,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An11g06170,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An03g05670,template gene in no GPR,removed,,gene of a template reaction with no ortholog
+An15g03820,template gene in no GPR,removed,,gene of a template reaction with no ortholog

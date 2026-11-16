@@ -1,0 +1,20 @@
+test	max_flux	expected_zero
+ATP -> ADP + Pi	0	True
+GTP -> GDP + Pi	0	True
+CTP -> CDP + Pi	0	True
+UTP -> UDP + Pi	0	True
+ITP -> IDP + Pi	0	True
+NADH -> NAD + 2H	0	True
+NADPH -> NADP + 2H	0	True
+FADH2p -> FADp + 2H	0	True
+QH2m -> Qm + 2H	0	True
+NADHm -> NADm + 2H	0	True
+NADPHm -> NADPm + 2H	0	True
+H -> Hm (PMF)	0	True
+H_PO -> H_POm (PMF)	0	True
+route NADH->NADPH (c)	0	True
+route NADPH->NADH (c)	1000	False
+route NADHm->NADPHm	0	True
+route NADPHm->NADHm	0	False
+route NADH c->m	1000	False
+route NADH m->c	1000	False

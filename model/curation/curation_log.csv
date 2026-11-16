@@ -1,0 +1,729 @@
+reaction_id,stage,action,rule,evidence,confidence
+r20,1_draft,removed,strict homology: no mapped gene,,0
+r45a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TLJ7 or A0A2L2TLJ7 or A0A2L2T1N1,2
+r53a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TFV0 or A0A2L2SPL3 or A0A2L2TJG5 or A0A2L2T8E1 or A0A2L2T5W8 or A0A2L2TRR6 or A0A2L2TI14 or A0A2L2TAU5 or A0A2L2TFV0 or A0A2L2TAR4 or A0A2L2TP57 or A0A2L2T8E1 or A0A2L2SPL3,2
+r73,1_draft,removed,strict homology: no mapped gene,,0
+r992,1_draft,removed,strict homology: no mapped gene,,0
+r113a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TFV0 or A0A2L2SPL3 or A0A2L2TJG5 or A0A2L2T8E1 or A0A2L2T5W8 or A0A2L2TRR6 or A0A2L2TI14 or A0A2L2TAU5 or A0A2L2TFV0 or A0A2L2TAR4 or A0A2L2TP57 or A0A2L2T8E1 or A0A2L2SPL3,2
+r118a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TFV0 or A0A2L2SPL3 or A0A2L2TJG5 or A0A2L2T8E1 or A0A2L2T5W8 or A0A2L2TRR6 or A0A2L2TI14 or A0A2L2TAU5 or A0A2L2TFV0 or A0A2L2TAR4 or A0A2L2TP57 or A0A2L2T8E1 or A0A2L2SPL3,2
+r151,1_draft,removed,strict homology: no mapped gene,,0
+r158,1_draft,removed,strict homology: no mapped gene,,0
+r159,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TVC8 or A0A2L2TQM6 or A0A2L2SRU7 or A0A2L2TT71 or A0A2L2TT71 or A0A2L2SRU7 or A0A2L2TQM6 or A0A2L2TVC8,2
+r160,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SRU7 or A0A2L2TT71 or A0A2L2TT71 or A0A2L2SRU7,2
+r162,1_draft,removed,strict homology: no mapped gene,,0
+r163a,1_draft,removed,strict homology: no mapped gene,,0
+r164a,1_draft,removed,strict homology: no mapped gene,,0
+r1275,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TSS6 or A0A2L2SW95 or A0A2L2T7H6 or A0A2L2TJY0,2
+r197,1_draft,removed,strict homology: no mapped gene,,0
+r201a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SZA6 or A0A2L2SZA6 or A0A2L2T5B0 or A0A2L2T797 or A0A2L2TUT4,2
+r202,1_draft,removed,strict homology: no mapped gene,,0
+r205a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TJM7 or A0A2L2TJM7 or A0A2L2T7N7 or A0A2L2T7N7 or A0A2L2T7N7 or A0A2L2TZA8,2
+r228a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SVL0 or A0A2L2SVL0 or A0A2L2TJM7 or A0A2L2T7N7 or A0A2L2T7N7,2
+r229a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SVL0 or A0A2L2TJM7 or A0A2L2SVL0 or A0A2L2T7N7 or A0A2L2T7N7,2
+r230a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SYA5 or A0A2L2SVL0 or A0A2L2TDW2,2
+r1002c,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TS15 or A0A2L2T2J8 or A0A2L2T9N7 or A0A2L2TJA4 or A0A2L2TRJ2 or A0A2L2TVF7 or A0A2L2TXE4 or A0A2L2SPH7 or A0A2L2SQV5,2
+r1210,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TQV2 or A0A2L2SSJ6 or A0A2L2SUP8 or A0A2L2TQV2 or A0A2L2TMT2,2
+r1201,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TL34 or A0A2L2TL34,2
+r1222,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SPH7 or A0A2L2TRD7 or A0A2L2SSL7 or A0A2L2TPI1 or A0A2L2TZQ5 or A0A2L2U3W7 or A0A2L2TRD7 or A0A2L2TRD7 or A0A2L2TRD7 or A0A2L2TRD7 or A0A2L2TRD7 or A0A2L2TPI1 or A0A2L2TZQ5 or A0A2L2TRD7 or A0A2L2TRD7 or A0A2L2TRD7 or A0A2L2SPH7 or A0A2L2TRD7 or A0A2L2TRD7,2
+r968,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TTW4 or A0A2L2TTW4 or A0A2L2TLK3 or A0A2L2STY1 or A0A2L2TBA4 or A0A2L2TYT3 or A0A2L2TCW1 or A0A2L2TGN5 or A0A2L2T5E1 or A0A2L2T6X1 or A0A2L2TCS0 or A0A2L2TM20 or A0A2L2TU03 or A0A2L2TCS0 or A0A2L2TBA4 or A0A2L2TYT3 or A0A2L2TCW1,2
+r973,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T0X8 or A0A2L2T0X8,2
+r982,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TCR9 or A0A2L2TBA4 or A0A2L2TYT3 or A0A2L2TF25,2
+r969,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWF0 or A0A2L2U4C4 or A0A2L2U4C4,2
+r215,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SYU7 or A0A2L2T1G8 or A0A2L2T1M8 or A0A2L2T6A6 or A0A2L2T7J8 or A0A2L2TJJ7 or A0A2L2TRE0 or A0A2L2TRW2 or A0A2L2TTQ3 or A0A2L2SRP9 or A0A2L2T4Y9 or A0A2L2U4T2 or A0A2L2TC62 or A0A2L2TL48 or A0A2L2SWK8 or A0A2L2TAA2 or A0A2L2TJ44 or A0A2L2U4T2 or A0A2L2U4T2 or A0A2L2SW93 or A0A2L2SWK8 or A0A2L2TAA2 or A0A2L2TJ44 or A0A2L2U4T2 or A0A2L2SYU7 or A0A2L2T1G8 or A0A2L2T1M8 or A0A2L2T6A6 or A0A2L2T7J8 or A0A2L2TJJ7 or A0A2L2TRE0 or A0A2L2TRW2 or A0A2L2TTQ3 or A0A2L2TRE0 or A0A2L2TP60 or A0A2L2TI27 or A0A2L2TI27,2
+r247,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SSV8 or A0A2L2SVP2 or A0A2L2T0Z5 or A0A2L2T2Q8 or A0A2L2TNG3 or A0A2L2TNM4 or A0A2L2TNM4 or A0A2L2SSV8 or A0A2L2T4L4 or A0A2L2SP89 or A0A2L2T0Z5,2
+r248,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SSV8 or A0A2L2SVP2 or A0A2L2T0Z5 or A0A2L2T2Q8 or A0A2L2TNG3 or A0A2L2TNM4 or A0A2L2TNM4 or A0A2L2SSV8 or A0A2L2T4L4 or A0A2L2SP89 or A0A2L2T0Z5,2
+r250,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SQW3 or A0A2L2SP15 or A0A2L2T280 or A0A2L2T723 or A0A2L2T1E1,2
+r255,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TDV5 or A0A2L2TDV5 or A0A2L2SPH1 or A0A2L2TDV5 or A0A2L2SPQ0 or A0A2L2SPQ0,2
+r267,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TC77 or A0A2L2TC77,2
+r274,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T3F1 or A0A2L2T3F1 or A0A2L2T3F1 or A0A2L2TDK1 or A0A2L2T3F1 or A0A2L2TPE1 or A0A2L2T3F1 or A0A2L2T2Z6 or A0A2L2SR89,2
+r293,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T2K9 or A0A2L2T8J7 or A0A2L2T2K9,2
+r294,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T2K9 or A0A2L2T8J7 or A0A2L2T2K9,2
+r311,1_draft,removed,strict homology: no mapped gene,,0
+r331,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TDV6 or A0A2L2TI24 or A0A2L2T2Z2 or A0A2L2TDV6,2
+r338,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TA23 or A0A2L2TA23,2
+r339,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TDV6 or A0A2L2TI24 or A0A2L2T2Z2 or A0A2L2TDV6,2
+r335,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TDV6 or A0A2L2TI24 or A0A2L2T2Z2 or A0A2L2TDV6,2
+r347,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2THS5 or A0A2L2TU90 or A0A2L2TU90 or A0A2L2TDM3 or A0A2L2TKX4,2
+r348,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2THS5 or A0A2L2TU90 or A0A2L2TU90 or A0A2L2TDM3 or A0A2L2TKX4,2
+r360,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TFB3 or A0A2L2T2P3,2
+r412,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T2K9 or A0A2L2T8J7 or A0A2L2T8J7 or A0A2L2T2K9,2
+r416,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T2K9 or A0A2L2T8J7 or A0A2L2T8J7 or A0A2L2T2K9,2
+r464,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T3P5 or A0A2L2T3P5,2
+r479,1_draft,kept,"RAVEN: complex kept, unmapped subunits OLD_",OLD_An16g04960 and A0A2L2T2T6 and A0A2L2T2T6 and A0A2L2SWY4,2
+r506,1_draft,removed,strict homology: no mapped gene,,0
+r515,1_draft,removed,strict homology: no mapped gene,,0
+r562,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r564,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r565,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r567,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r569,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r570,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r572,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r574,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r575,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r577,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r579,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r580,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r582,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r584,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r585,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r587,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r589,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TKM4 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5H5 or A0A2L2U5D8,2
+r590,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r592,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2U2V6,2
+r599,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TKM4 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5H5 or A0A2L2U5D8,2
+r600,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r602,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2U2V6,2
+r609,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TKM4 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5H5 or A0A2L2U5D8,2
+r610,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r612,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2U2V6,2
+r619,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TKM4 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5H5 or A0A2L2U5D8,2
+r620,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r622,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2U2V6,2
+r1224,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r1226,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r1227,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1229,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1231,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r1232,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1234,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1236,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r1237,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1239,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1241,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r1242,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1244,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1246,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r1247,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1249,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1251,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r1252,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1254,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1256,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r1257,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1259,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1261,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8Q1 or A0A2L2TA54 or A0A2L2TQD3 or A0A2L2TPH3 or A0A2L2TAQ1 or A0A2L2TXR3 or A0A2L2TF83 or A0A2L2T672 or A0A2L2TA88 or A0A2L2TV05 or A0A2L2U5D8 or A0A2L2TFL6 or A0A2L2TFP1 or A0A2L2U5D8,2
+r1262,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r1264,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TWI9 and A0A2L2TWI9 and A0A2L2TWI9,2
+r631,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r632,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r633,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r634,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r635,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r636,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r637,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r638,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r639,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r640,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r641,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r642,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r985,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r643,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r644,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r645,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r646,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r647,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r648,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r649,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r650,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U2V6,2
+r823,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TQL7 or A0A2L2TDP5 or A0A2L2TQB4 or A0A2L2TV08 or A0A2L2TZU4,2
+r824,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TQL7 or A0A2L2TDP5 or A0A2L2TQB4 or A0A2L2TV08 or A0A2L2TZU4,2
+r831,1_draft,removed,strict homology: no mapped gene,,0
+r834,1_draft,removed,strict homology: no mapped gene,,0
+r837,1_draft,removed,strict homology: no mapped gene,,0
+r856,1_draft,kept,"RAVEN: complex kept, unmapped subunits OLD_",OLD_An05g02310 and OLD_An09g00100 and A0A2L2TRN1,2
+r857,1_draft,kept,"RAVEN: complex kept, unmapped subunits OLD_",OLD_An05g02310 and OLD_An09g00100 and A0A2L2TRN1,2
+r867,1_draft,removed,strict homology: no mapped gene,,0
+r868,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SZ50 or A0A2L2TAF0 or A0A2L2TQT0 or A0A2L2TVH8,2
+r882,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TMF4 or A0A2L2TNR6 or A0A2L2TMF4,2
+r894,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8D7 or A0A2L2T8D7 or A0A2L2T450 or A0A2L2T097 or A0A2L2THD4 or A0A2L2TXP5 or A0A2L2TAA8 or A0A2L2STM9 or A0A2L2TPT8 or A0A2L2SQ85 or A0A2L2STM9 or A0A2L2SYD1 or A0A2L2T2H7 or A0A2L2TAA8 or A0A2L2SWL4,2
+r895,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T8D7 or A0A2L2T8D7 or A0A2L2T450 or A0A2L2T097 or A0A2L2THD4 or A0A2L2TXP5 or A0A2L2TAA8 or A0A2L2STM9 or A0A2L2TPT8 or A0A2L2SQ85 or A0A2L2STM9 or A0A2L2SYD1 or A0A2L2T2H7 or A0A2L2TAA8 or A0A2L2SWL4,2
+r1010,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SWF0 or A0A2L2SYG4 or A0A2L2TCR7 or A0A2L2TGP7 or A0A2L2TK98 or A0A2L2TVL6,2
+r2000,1_draft,removed,strict homology: no mapped gene,,0
+r2001,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2U5A9,2
+r2002,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T9G3,2
+r2003,1_draft,kept,"RAVEN: complex kept, unmapped subunits OLD_",A0A2L2TQR4 and OLD_An10g00180,2
+r2005,1_draft,removed,strict homology: no mapped gene,,0
+r2007,1_draft,removed,strict homology: no mapped gene,,0
+r2008,1_draft,removed,strict homology: no mapped gene,,0
+r1276,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SX55 or A0A2L2SYS9 or A0A2L2T048 or A0A2L2THD3 or A0A2L2TKG2 or A0A2L2TQH0 or A0A2L2TRS6,2
+r1120,1_draft,removed,strict homology: no mapped gene,,0
+r1037,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SXK1 or A0A2L2T152 or A0A2L2TA05 or A0A2L2SYN0 or A0A2L2SYJ2 or A0A2L2SUA4 or A0A2L2TJF8 or A0A2L2T152 or A0A2L2T6X6,2
+r1047a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SVL5 or A0A2L2SVL5 or A0A2L2T152 or A0A2L2TJF8 or A0A2L2TA05 or A0A2L2TG15 or A0A2L2T1M4 or A0A2L2TBL7 or A0A2L2TVY4 or A0A2L2SRD3 or A0A2L2SVL5 or A0A2L2SVL5 or A0A2L2TAY0 or A0A2L2SUA4 or A0A2L2TJF8 or A0A2L2SUV6 or A0A2L2T152 or A0A2L2T6X6 or A0A2L2SXK1,2
+r1044a,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SXK1 or A0A2L2T152 or A0A2L2TA05 or A0A2L2TYD1 or A0A2L2TPP0 or A0A2L2TJF8 or A0A2L2SUV6 or A0A2L2T6X6 or A0A2L2SVL5 or A0A2L2SVL5 or A0A2L2TK38,2
+r1041,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SXK1 or A0A2L2T152 or A0A2L2TA05 or A0A2L2SVL5 or A0A2L2TYD1 or A0A2L2SUA4 or A0A2L2TJF8 or A0A2L2SUV6 or A0A2L2T152 or A0A2L2T6X6,2
+r1059,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SUA4 or A0A2L2TJF8 or A0A2L2SRD3 or A0A2L2TP32 or A0A2L2T152 or A0A2L2SUA4 or A0A2L2SRD3 or A0A2L2TP32 or A0A2L2T152 or A0A2L2TJF8,2
+r1054,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SUA4 or A0A2L2TAY0 or A0A2L2TJF8 or A0A2L2SUV6 or A0A2L2TP32 or A0A2L2T152 or A0A2L2TP32 or A0A2L2T152 or A0A2L2SUV6 or A0A2L2SUA4 or A0A2L2TAY0 or A0A2L2TJF8,2
+r1035,1_draft,removed,strict homology: no mapped gene,,0
+r1185,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T5Z7,2
+r1113,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TKK0 or A0A2L2TAT9,2
+r3000,1_draft,removed,strict homology: no mapped gene,,0
+r3001,1_draft,removed,strict homology: no mapped gene,,0
+r3002,1_draft,removed,strict homology: no mapped gene,,0
+r3003,1_draft,removed,strict homology: no mapped gene,,0
+r3004,1_draft,removed,strict homology: no mapped gene,,0
+r3005,1_draft,removed,strict homology: no mapped gene,,0
+r3006,1_draft,removed,strict homology: no mapped gene,,0
+r3007,1_draft,removed,strict homology: no mapped gene,,0
+r3008,1_draft,removed,strict homology: no mapped gene,,0
+r3009,1_draft,removed,strict homology: no mapped gene,,0
+r3010,1_draft,removed,strict homology: no mapped gene,,0
+r1325,1_draft,removed,strict homology: no mapped gene,,0
+r163c,1_draft,removed,strict homology: no mapped gene,,0
+r1908,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T9N6 or A0A2L2TDU4,2
+r1910,1_draft,removed,strict homology: no mapped gene,,0
+r1916,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SYA5 or A0A2L2SYA5,2
+r1927,1_draft,removed,strict homology: no mapped gene,,0
+r1934,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TYC7 and (A0A2L2SWF0 or A0A2L2SYG4 or A0A2L2TCR7 or A0A2L2TGP7 or A0A2L2TK98 or A0A2L2TVL6),2
+r1936,1_draft,removed,strict homology: no mapped gene,,0
+r1937,1_draft,removed,strict homology: no mapped gene,,0
+r1939,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TE69,2
+r1940,1_draft,removed,strict homology: no mapped gene,,0
+r1941,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TE23 or A0A2L2TE69,2
+r1942,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TE69,2
+r1952,1_draft,removed,strict homology: no mapped gene,,0
+r1953,1_draft,kept,"RAVEN: complex kept, unmapped subunits OLD_",(A0A2L2T9N6 or A0A2L2TDU4) and A0A2L2T7V9 and OLD_An11g07330,2
+r1954,1_draft,kept,tier 2: same OrthoFinder orthogroup,(A0A2L2T9N6 or A0A2L2TDU4) and A0A2L2T7V9,2
+r1955,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T9N6 or A0A2L2TDU4 or A0A2L2T7V9,2
+r1996,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TCW1 or A0A2L2TCW1,2
+r1997,1_draft,kept,"RAVEN: complex kept, unmapped subunits OLD_",OLD_An09g01860 and A0A2L2U5I3,2
+r1998,1_draft,kept,"RAVEN: complex kept, unmapped subunits OLD_",(A0A2L2SWF0 or A0A2L2SYG4 or A0A2L2TCR7 or A0A2L2TGP7 or A0A2L2TK98 or A0A2L2TVL6) and OLD_An09g01820 and A0A2L2TDQ1,2
+r1999,1_draft,removed,strict homology: no mapped gene,,0
+r2010,1_draft,kept,tier 2: same OrthoFinder orthogroup,(A0A2L2TSN2 and A0A2L2T0S3) or A0A2L2TSN2,2
+r2015,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T4L5 or A0A2L2T4L5,2
+r2028,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T1P5 or A0A2L2T7S9 or A0A2L2TQ82 or A0A2L2TRD9 or A0A2L2U2S0,2
+r2037,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TEG0,2
+r2049,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2THD4 or A0A2L2TD38,2
+r2050,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2THD4,2
+r2051,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2THD4 or A0A2L2TD38 or A0A2L2SWX5 or A0A2L2U1U5 or A0A2L2U1U5,2
+r2056,1_draft,removed,strict homology: no mapped gene,,0
+r2084,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TCJ4 and (A0A2L2T3K5 or A0A2L2TCX6),2
+r2085,1_draft,kept,tier 2: same OrthoFinder orthogroup,(A0A2L2T3K5 or A0A2L2TCX6) and A0A2L2TCJ4,2
+r2090,1_draft,kept,tier 2: same OrthoFinder orthogroup,(A0A2L2SVM8 or A0A2L2TL94 or A0A2L2U367) and A0A2L2TUM8,2
+r2092,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TZD9,2
+r2098,1_draft,removed,strict homology: no mapped gene,,0
+r2111,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TDU4 and A0A2L2TK49 and A0A2L2TDU4,2
+r2148,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TDW2 or A0A2L2TDW2,2
+r2150,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2SVN8 or A0A2L2TZ25 or A0A2L2TZ25 or A0A2L2SVN8 or A0A2L2SVN8 or A0A2L2SVN8 or A0A2L2TZ25 or A0A2L2TZ25,2
+r2156,1_draft,removed,strict homology: no mapped gene,,0
+r2172,1_draft,removed,strict homology: no mapped gene,,0
+r2173,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2T128 or A0A2L2T128 or A0A2L2TBQ9,2
+r2196,1_draft,removed,strict homology: no mapped gene,,0
+r2201,1_draft,removed,strict homology: no mapped gene,,0
+r2307,1_draft,removed,strict homology: no mapped gene,,0
+r2315,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TDV5 or A0A2L2TDV5 or A0A2L2SV55 or A0A2L2TDV5 or A0A2L2TDV5 or A0A2L2TDV5 or A0A2L2SV55,2
+r2328,1_draft,kept,"RAVEN: complex kept, unmapped subunits OLD_",A0A2L2TK06 and A0A2L2T0A5 and OLD_An12g01120,2
+r2329,1_draft,kept,"RAVEN: complex kept, unmapped subunits OLD_",(OLD_An09g03020 and A0A2L2T4R4) or A0A2L2T4R4,2
+r2533,1_draft,removed,strict homology: no mapped gene,,0
+r2530,1_draft,removed,strict homology: no mapped gene,,0
+r2535,1_draft,removed,strict homology: no mapped gene,,0
+r2532,1_draft,removed,strict homology: no mapped gene,,0
+r2537,1_draft,removed,strict homology: no mapped gene,,0
+r2534,1_draft,removed,strict homology: no mapped gene,,0
+r2526,1_draft,removed,strict homology: no mapped gene,,0
+r2539,1_draft,removed,strict homology: no mapped gene,,0
+r2536,1_draft,removed,strict homology: no mapped gene,,0
+r2527,1_draft,removed,strict homology: no mapped gene,,0
+r2538,1_draft,removed,strict homology: no mapped gene,,0
+r2529,1_draft,removed,strict homology: no mapped gene,,0
+r2525,1_draft,removed,strict homology: no mapped gene,,0
+r2531,1_draft,removed,strict homology: no mapped gene,,0
+r2528,1_draft,removed,strict homology: no mapped gene,,0
+r2566,1_draft,removed,strict homology: no mapped gene,,0
+r2555,1_draft,removed,strict homology: no mapped gene,,0
+r2567,1_draft,removed,strict homology: no mapped gene,,0
+r2556,1_draft,removed,strict homology: no mapped gene,,0
+r2559,1_draft,removed,strict homology: no mapped gene,,0
+r2568,1_draft,removed,strict homology: no mapped gene,,0
+r2557,1_draft,removed,strict homology: no mapped gene,,0
+r2561,1_draft,removed,strict homology: no mapped gene,,0
+r2558,1_draft,removed,strict homology: no mapped gene,,0
+r2563,1_draft,removed,strict homology: no mapped gene,,0
+r2560,1_draft,removed,strict homology: no mapped gene,,0
+r2564,1_draft,removed,strict homology: no mapped gene,,0
+r2562,1_draft,removed,strict homology: no mapped gene,,0
+r2565,1_draft,removed,strict homology: no mapped gene,,0
+r2649,1_draft,removed,strict homology: no mapped gene,,0
+r2670,1_draft,removed,strict homology: no mapped gene,,0
+r2671,1_draft,removed,strict homology: no mapped gene,,0
+r2678,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TJF8 or A0A2L2TYW5 or A0A2L2SW25 or A0A2L2T277,2
+r2680,1_draft,kept,tier 2: same OrthoFinder orthogroup,A0A2L2TP32 or A0A2L2TJF8 or A0A2L2THL5 or A0A2L2T277,2
+r2695,1_draft,removed,strict homology: no mapped gene,,0
+r2700,1_draft,removed,strict homology: no mapped gene,,0
+r2800,1_draft,removed,strict homology: no mapped gene,,0
+r20,2_ec_rescue,added,EC annotated in F. venenatum UniProt proteome,EC 6.4.1.1: A0A2L2SNL1,2
+r197,2_ec_rescue,added,EC annotated in F. venenatum UniProt proteome,EC 1.1.1.9: A0A2L2T0M6 or A0A2L2TQM6,2
+r202,2_ec_rescue,added,EC annotated in F. venenatum UniProt proteome,EC 3.2.1.20: A0A2L2T0C0 or A0A2L2TED9 or A0A2L2TKE8 or A0A2L2TRW9 or A0A2L2TUT4,2
+r831,2_ec_rescue,added,EC annotated in F. venenatum UniProt proteome,EC 1.1.1.102: A0A2L2T1S2 or A0A2L2T4E9,2
+r834,2_ec_rescue,added,EC annotated in F. venenatum UniProt proteome,EC 1.1.1.102: A0A2L2T1S2 or A0A2L2T4E9,2
+r837,2_ec_rescue,added,EC annotated in F. venenatum UniProt proteome,EC 1.1.1.102: A0A2L2T1S2 or A0A2L2T4E9,2
+r158,2_gapfill,added,needed for functional tasks: biomass producibility on minimal glucose; respiratory ATP (>= 20 ATP/glucose),"template iJB1325, no F. venenatum gene",1
+r867,2_gapfill,added,needed for functional tasks: biomass producibility on minimal glucose; respiratory ATP (>= 20 ATP/glucose),"template iJB1325, no F. venenatum gene",1
+r2201,2_gapfill,added,needed for functional tasks: biomass producibility on minimal glucose; respiratory ATP (>= 20 ATP/glucose),"template iJB1325, no F. venenatum gene",1
+BOUNDARY_345THBe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_3CPYRDe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_3HBAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_AAMYLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ACALe,3_secretion,kept_open,whitelist,volatile small aldehyde; passive membrane diffusion; general physical chemistry (no organism-specific citation),2
+BOUNDARY_ACe,3_secretion,kept_open,whitelist,weak acid crossing membranes in protonated form; fungal overflow product; Pronk et al. 1996 Yeast 12:1607-1633 [unverified],2
+BOUNDARY_ACOe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ADe,3_secretion,kept_open,gene-backed transporter,r1180,2
+BOUNDARY_AKGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ALAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_AMPe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_AOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ARABe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ARGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ASNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ASPe,3_secretion,kept_open,gene-backed transporter,r1103,2
+BOUNDARY_ATNe,3_secretion,kept_open,gene-backed transporter,r1125,2
+BOUNDARY_ATPe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ATTe,3_secretion,kept_open,gene-backed transporter,r1276,2
+BOUNDARY_BAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_bALAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_BAMNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_bDGLCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_BNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_BTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_BUTNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C100e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C120e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C140e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C141e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C150e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C160e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C161e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C162e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C170e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C171e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C180e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C181e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C182e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C183e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C190e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C191e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C192e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C200e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C40e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C60e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C80e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_cAMPe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CELLOBe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CHOSLFe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CITe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CITRe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_COUMe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CYSe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DGLCe,3_secretion,kept_open,gene-backed transporter,r1048,2
+BOUNDARY_DHSKe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DMANDe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DMTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DTBe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_Ee,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_EOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ETHe,3_secretion,kept_open,whitelist,passive membrane diffusion; F. venenatum PDC/ADH ethanol production; Hong et al. 2024 J Agric Food Chem doi:10.1021/acs.jafc.4c07105; Tong et al. 2022 Appl Microbiol Biotechnol doi:10.1007/s00253-022-12178-5,2
+BOUNDARY_EUe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_FERe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_FORe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_FRUe,3_secretion,kept_open,gene-backed transporter,r1044a,2
+BOUNDARY_FUMe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GABAe,3_secretion,kept_open,gene-backed transporter,r1185,2
+BOUNDARY_GALNTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GALOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GALUNTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GAMYLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLACe,3_secretion,kept_open,gene-backed transporter,r1037,2
+BOUNDARY_GLCe,3_secretion,kept_open,gene-backed transporter,r1047a,2
+BOUNDARY_GLCN15LACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLCNTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLCUNTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLe,3_secretion,kept_open,whitelist,fungal redox/osmotic sink exported via aquaglyceroporin (Fps1-type) and diffusion; Ansell et al. 1997 EMBO J doi:10.1093/emboj/16.9.2179 [unverified]; van Dijken & Scheffers 1986 FEMS Microbiol Rev [unverified],2
+BOUNDARY_GLNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLUe,3_secretion,kept_open,gene-backed transporter,r1105,2
+BOUNDARY_GLYe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLYNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_H2O2e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_H2SO3e,3_secretion,kept_open,gene-backed transporter,r2652,2
+BOUNDARY_HISe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_HNO3e,3_secretion,kept_open,gene-backed transporter,r1086,2
+BOUNDARY_HYXNe,3_secretion,kept_open,gene-backed transporter,r1119,2
+BOUNDARY_ICITe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_IDOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ILEe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_INDe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_KYNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LACTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LAOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LARABe,3_secretion,kept_open,gene-backed transporter,r1059,2
+BOUNDARY_LEUe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LLACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LMANDe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LXULe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LYSe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MANe,3_secretion,kept_open,gene-backed transporter,r1041,2
+BOUNDARY_MELIe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_METe,3_secretion,kept_open,gene-backed transporter,r1111,2
+BOUNDARY_METHOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MLTe,3_secretion,kept_open,gene-backed transporter,r1145,2
+BOUNDARY_MNTe,3_secretion,kept_open,gene-backed transporter,r1043,2
+BOUNDARY_NH3e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_NICAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_NICDe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_O2e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_OAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ORNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_OTAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_OXALe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PCCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PENNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHALe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHEe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHPYRe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PIe,3_secretion,kept_open,gene-backed transporter,r1095,2
+BOUNDARY_PROe,3_secretion,kept_open,gene-backed transporter,r1113,2
+BOUNDARY_PROPALe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PROPe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PYRe,3_secretion,kept_open,whitelist,excreted by fermenting/respiro-fermenting fungi; Pronk et al. 1996 Yeast 12:1607-1633 [unverified],2
+BOUNDARY_QTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_QUINe,3_secretion,kept_open,gene-backed transporter,r1129,2
+BOUNDARY_RAFFe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_RESe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_RHAe,3_secretion,kept_open,gene-backed transporter,r1221,2
+BOUNDARY_RIBe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_RIBOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_RLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SALIe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SERe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SLFe,3_secretion,kept_open,gene-backed transporter,r1090,2
+BOUNDARY_SMEe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SORe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SOTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_STACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SUCCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SUCe,3_secretion,kept_open,gene-backed transporter,r1915,2
+BOUNDARY_TANAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TARe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_THRe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TPHTHe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TREe,3_secretion,kept_open,gene-backed transporter,r1143,2
+BOUNDARY_TRPe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TYRe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_URAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_UREAe,3_secretion,kept_open,gene-backed transporter,r1085,2
+BOUNDARY_URIe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_VALe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_VANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_XANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_XOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_XULe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_XYLe,3_secretion,kept_open,gene-backed transporter,r1054,2
+BOUNDARY_Ke,3_secretion,kept_open,gene-backed transporter,r247,2
+BOUNDARY_CAe,3_secretion,kept_open,gene-backed transporter,r248,2
+BOUNDARY_NH4e,3_secretion,kept_open,gene-backed transporter,r1400,2
+BOUNDARY_HNO2,3_secretion,kept_open,gene-backed transporter,r1500,2
+BOUNDARY_GLCNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MYOIe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ACAMe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMAN,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUDe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUEe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUX1e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUX2e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUMe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANULe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUKe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUJe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MCREe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TOLUe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_7DEACYANUAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUFe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_22DEAYANUAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUHe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_YANUIe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMAZAAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMAZAEe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMAZAFe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMFK17P2Ae,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_5ALEVUAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DFCOPROBe,3_secretion,kept_open,gene-backed transporter,r2035,2
+BOUNDARY_TAUe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ETHSAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_THIAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_4HBAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CCLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ORCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PYRGALOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_STYRe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SORBAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_RUTINe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CAFFAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMFUNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_AGMAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GBATe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PUTRe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_METNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_HEXNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_HEXALe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PROPNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_13DAPROPe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CNOe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DINTOe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PIMAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHYAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GALAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_URICe,3_secretion,kept_open,gene-backed transporter,r2189,2
+BOUNDARY_TRIOe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TRICAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALA1e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALA2e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALA4e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALB1Ae,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALB2e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALB3e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALB4e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALB5e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MALCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MOe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ACXYLANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ACSTARCHe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ACCELLUe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_3NALAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_URETAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ETHDNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHEAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PROPAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_KOTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_HYQUIe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_INUe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLYCOe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GCDEXe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_BCDEXe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_RAMYGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ARBUTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GENTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MELZe,3_secretion,kept_open,gene-backed transporter,r2680,2
+BOUNDARY_MALOLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PALAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_2MXYLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SALe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TURe,3_secretion,kept_open,gene-backed transporter,r2678,2
+BOUNDARY_MLACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_RIBOLACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SEBAAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PCAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_OCTNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GALN14LACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_2MGLCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MLTRIOe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MPYRe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TYRANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LLYXe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ETAMe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DASNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DALAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_HSERe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_NPGLUe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ETYAMe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_HISNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHEETAMe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_FAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLCUNANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LACNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_NAGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_NAMe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ADNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GSNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_INSe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PARAAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_2NPENAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_5NPENAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMNIGNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMAZABe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMAZACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMAZADe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMPYRAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMPYRJe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMPYRIe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMPYRHe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMPYREe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMPYRGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMPYRKe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_UROAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CYSTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CYSAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMTAN1612e,3_secretion,kept_open,gene-backed transporter,r2669,2
+BOUNDARY_STARCHe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ARABANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_XYLANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GALNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MLTDe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PECe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_4NBUTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GPROPe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_LHARGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ZNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_RHAGALANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_QUERCE3BGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PTYRe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_NARINGEe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MGDGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_METPOLGALUNTe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_METHe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_MAPCHOe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_HESPEe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_HESPE7BGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GALLOCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_FE2e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_FARAXYLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DPHEe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_COe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CHLORAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CARBOAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CARAXYLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_B14MANe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ASe,3_secretion,kept_open,gene-backed transporter,r2175,2
+BOUNDARY_2AMANBIOe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_CHITe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_XYLGLUCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHLOROGAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHLOIe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHLOGe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_PHLOAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TRIALACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMNYGAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMRUBFBe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_TETRALACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMN1368THNe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMFONSe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMFONC2e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMFONCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMFONB2e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMFONBe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMFONAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMAUAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMASPRe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMASPCe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_SMASPBe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_OTalphae,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLYCAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_cVVFFe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ISEAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_DMAGGFe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ASAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_APROPe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_bFRUe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_bGLACe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_bLARAB,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_C70e,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_2GGAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_GLYCEAe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_IND3ACDOXe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_ACNLe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_3HPROe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_T3HPROe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+BOUNDARY_24DH356TMBALe,3_secretion,export_closed,no gene-backed transporter or literature basis,,
+r2042,4_redox,blocked,NAD(P)H cannot cross the inner mitochondrial membrane,Bakker et al. 2001 FEMS Microbiol Rev 25:15-37,3
+r118a,4_redox,direction_set,mitochondrial ADH reductive only,Bakker et al. 2000 J Bacteriol 182:4730-4737,3
+r122,4_redox,removed,gene-less cofactor variant of a gene-backed reaction,gene-backed variant: r127,2
+r978,4_redox,removed,gene-less cofactor variant of a gene-backed reaction,gene-backed variant: r977,2
+r2834,4_redox,removed,transhydrogenase without EC 1.6.1.- annotated gene,"GPR was 'A0A2L2SUE7'; Anderlund 1999, Bakker 2001",2
+r146,4_redox,direction_forward,NADP-linked runs reductively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r146,r146a",2
+r146a,4_redox,direction_reverse,NAD-linked runs oxidatively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r146,r146a",2
+r159,4_redox,direction_forward,NAD-linked runs oxidatively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r159,r160",2
+r160,4_redox,direction_reverse,NADP-linked runs reductively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r159,r160",2
+r189,4_redox,direction_reverse,NADP-linked runs reductively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r189,r1286",2
+r1286,4_redox,direction_forward,NAD-linked runs oxidatively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r189,r1286",2
+r287,4_redox,direction_forward,NADP-linked runs reductively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r287,r288",2
+r288,4_redox,direction_reverse,NAD-linked runs oxidatively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r287,r288",2
+r184,4_redox,direction_forward,NADP-linked runs reductively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r184,r184c",2
+r184c,4_redox,direction_reverse,NAD-linked runs oxidatively (in vivo cofactor ratios),"Pereira et al. 2016 Metab Eng Commun 3:153-163; pair: r184,r184c",2
+r54,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-10.4+/-0.4,2
+r65,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-8.8+/-0.5,2
+r69a,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-11.1+/-0.5,2
+r991,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-13.5+/-0.5,2
+r92,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-8.2+/-0.8,2
+r96,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-8.2+/-0.8,2
+r124,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-7.3+/-0.4,2
+r387,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-8.7+/-0.3,2
+r398,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-8.2+/-0.2,2
+r1271,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-8.6+/-0.2,2
+r977,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-8.9+/-0.3,2
+r973,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-11.3+/-0.3,2
+r293,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-10.3+/-0.4,2
+r294,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-8.8+/-1.1,2
+r412,4_thermo,direction_reverse,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=10.3+/-0.4,2
+r413,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-9.0+/-0.6,2
+r415,4_thermo,direction_reverse,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=9.0+/-0.6,2
+r416,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-8.8+/-1.1,2
+r899,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-11.1+/-0.5,2
+r1904,4_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-10.6+/-0.4,2
+GROWTH,5_biomass,coefficient_set,Protein: 0.389 g/gDW at 0.9999 g/mmol,37.3% of dry mycelium (US 4041189); ash-free (renormalised from 100.0%) -> 0.389 mmol,2
+GROWTH,5_biomass,coefficient_set,CELLWALL: 0.179 g/gDW at 1.4964 g/mmol,product cell-wall material 22-28% (FDA GRN 000091 letter 2002) x 0.68 retained (US 4041189); ash-free (renormalised from 100.0%) -> 0.1196 mmol,2
+GROWTH,5_biomass,coefficient_set,LIPIDS: 0.095 g/gDW at 0.1114 g/mmol,product fat 12-14% (FDA GRN 000091 letter 2002) x 0.68 retained (US 4041189); ash-free (renormalised from 100.0%) -> 0.8528 mmol,2
+GROWTH,5_biomass,coefficient_set,RNA: 0.095 g/gDW at 0.9998 g/mmol,8.7% in untreated mycelium (US 4041189); 8-9% (Trinci 1992); ash-free (renormalised from 100.0%) -> 0.09501 mmol,2
+GROWTH,5_biomass,coefficient_set,DNA: 0.009 g/gDW at 1.0010 g/mmol,A. oryzae chemostat (Pedersen et al. 1999) (renormalised from 100.0%) -> 0.008991 mmol,2
+GROWTH,5_biomass,coefficient_set,POOL: 0.233 g/gDW at 0.1312 g/mmol,remainder of ash-free dry mass (renormalised from 100.0%) -> 1.776 mmol,2
+GROWTH,5_biomass,checked,biomass molecular weight after normalisation (g/mmol); lipid R groups approximated as C18:1 acyl (C17H33),1.000,
+NGAM,5_biomass,set,NGAM=1.9 mmol ATP/gDW/h,A. niger iMA871 (Andersen 2008) - assumption,1
+r1273,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-11.9+/-0.3,2
+r39,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-14.9+/-1.3,2
+r135,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-13.7+/-0.8,2
+r170,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-13.2+/-1.8,2
+r180,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-10.7+/-0.9,2
+r181,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-16.6+/-0.5,2
+r1208,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-14.3+/-1.5,2
+r984,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-17.5+/-0.9,2
+r963,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-45.4+/-2.4,2
+r965,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-17.0+/-2.9,2
+r967,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-9.9+/-1.6,2
+r284,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-10.3+/-1.1,2
+r356,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-14.6+/-1.1,2
+r357,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-12.3+/-0.6,2
+r376,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-19.6+/-1.9,2
+r433,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-7.9+/-2.2,2
+r452,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-9.4+/-0.4,2
+r476,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-24.3+/-3.9,2
+r1267,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-45.5+/-0.9,2
+r557,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-11.7+/-1.4,2
+r825,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-27.3+/-3.0,2
+r112,6_v2_thermo,direction_reverse,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=94.9+/-1.1,2
+r1007,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-16.6+/-0.5,2
+r1008,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-16.6+/-0.5,2
+r1011,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-14.7+/-0.8,2
+r1013,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-13.9+/-1.5,2
+r1902,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-9.8+/-0.9,2
+r2075,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-20.9+/-0.9,2
+r2703,6_v2_thermo,direction_forward,eQuilibrator |ln Gamma|>=7 (Noor 2012),ln_Gamma=-28.3+/-0.6,2
+r1069,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per AC, 1 ATP per H+ -> r1069_exp",2
+r1131,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per PYR, 1 ATP per H+ -> r1131_exp",2
+r1066,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per LAC, 1 ATP per H+ -> r1066_exp",2
+r1065,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per LLAC, 1 ATP per H+ -> r1065_exp",2
+r1142,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per FOR, 1 ATP per H+ -> r1142_exp",2
+r1067,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per PROP, 1 ATP per H+ -> r1067_exp",2
+r1045,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per GLCNT, 1 ATP per H+ -> r1045_exp",2
+r1179,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per GLCUNT, 1 ATP per H+ -> r1179_exp",2
+r2189,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per URIC, 1 ATP per H+ -> r2189_exp",2
+r1276,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per ATT, 1 ATP per H+ -> r1276_exp",2
+r1103,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per ASP, 1 ATP per H+ -> r1103_exp",2
+r1105,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"1 H+ per GLU, 1 ATP per H+ -> r1105_exp",2
+r1130,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"2 H+ per SUCC, 1 ATP per H+ -> r1130_exp",2
+r1136,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"2 H+ per FUM, 1 ATP per H+ -> r1136_exp",2
+r1139,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"2 H+ per MAL, 1 ATP per H+ -> r1139_exp",2
+r1138,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"2 H+ per AKG, 1 ATP per H+ -> r1138_exp",2
+r1132,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"2 H+ per OA, 1 ATP per H+ -> r1132_exp",2
+r1140,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"2 H+ per OXAL, 1 ATP per H+ -> r1140_exp",2
+r1063,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"2 H+ per TAR, 1 ATP per H+ -> r1063_exp",2
+r1134,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"3 H+ per CIT, 1 ATP per H+ -> r1134_exp",2
+r1135,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"3 H+ per ICIT, 1 ATP per H+ -> r1135_exp",2
+r1137,6_v2_acid_export,export_charged,anion export: protons extruded by PM H+-ATPase (van Maris 2004),"3 H+ per ACO, 1 ATP per H+ -> r1137_exp",2
+r2335,6_v3_gtp_carrier,direction_set,GTP/GDP carrier imports GTP,"Vozza et al. 2004, J Biol Chem 279:20850",3
