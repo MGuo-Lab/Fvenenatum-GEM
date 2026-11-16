@@ -1,0 +1,13 @@
+model,section,score
+draft,total,0.2911493649048541
+draft,consistency,0.539624460784949
+draft,annotation_met,0.6157990799079908
+draft,annotation_rxn,0.48168892718655754
+draft,annotation_gene,0.0
+draft,annotation_sbo,0.0
+iJL1143,total,0.293264216043836
+iJL1143,consistency,0.5510375207188094
+iJL1143,annotation_met,0.6153690494258107
+iJL1143,annotation_rxn,0.45075088339222613
+iJL1143,annotation_gene,0.0
+iJL1143,annotation_sbo,0.0

@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-11-16T17:54:52.025349+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "dfba.run_dfba_multi + cobra FBA (via scripts/flask_dynamics.py)",
+    "models": {
+      "draft": "Draft.xml",
+      "curated": "iJL1143.xml"
+    },
+    "dt_h": 0.5,
+    "t_end": 150.0,
+    "thresholds_mM": [
+      0.05,
+      0.5,
+      5.0
+    ],
+    "conditions_threshold": [
+      "Glc10Fru5",
+      "Glc5Fru10"
+    ],
+    "sugar_depleted_below_gl": 0.01,
+    "fitted_parameters": "x0 per condition at each threshold; timing criterion t50"
+  }
+}

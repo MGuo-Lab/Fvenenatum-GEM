@@ -1,0 +1,9 @@
+Stage,Rule,Basis,Effect
+1,"Orthology filter: reactions kept only with orthology support (tier 1 RBH, tier 2 orthogroup, complexes kept when one subunit maps)",Orthology,85 template reactions removed
+2,Reaction recovery by EC number and gap-filling for biomass synthesis,UniProt EC of the F. venenatum proteome; tasks of Thiele & Palsson 2010,"+6 by EC number, +3 by gap-filling"
+3,Secretion restricted to a gene-supported transporter or literature support,List of metabolites with citations,330 exchange reactions closed
+4,"Redox rules against cost-free NADH-NADPH and cytosol-mitochondria routes, and NAD(P) reaction directionality",eQuilibrator |ln Γ| ≥ 7 (Noor et al. 2012),"15 redox actions, 20 directionality changes"
+5,"Biomass normalised to the composition of growing mycelium (Supplementary Table S2), NGAM 1.9",Towersey et al. 1977; FDA GRN 000091; Andersen et al. 2008,1 g mmol⁻¹
+6,Thermodynamic directionality of all metabolic reactions,eQuilibrator |ln Γ| ≥ 7 (Noor et al. 2012),29 directionality changes (incl. phosphoketolase)
+6,Organic-acid export pays 1 ATP per negative charge,"van Maris et al. 2004a, 2004b; Abbott et al. 2009","22 transports made import-only, 22 ATP-coupled export reactions added"
+6,Mitochondrial GTP/GDP carrier imports GTP,Vozza et al. 2004,1 reaction

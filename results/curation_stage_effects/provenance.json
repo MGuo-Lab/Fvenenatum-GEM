@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-11-16T17:13:28.528790+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "cobra static FBA",
+    "draft": "Draft.xml",
+    "curated": "iJL1143.xml",
+    "log": "model/curation/curation_log.csv",
+    "skipped_actions": [
+      "checked",
+      "coefficient_set",
+      "inferred_weight",
+      "kept",
+      "kept_open",
+      "set"
+    ],
+    "uptake_mmol_g_h": 1.0,
+    "fitted_parameters": "none"
+  }
+}

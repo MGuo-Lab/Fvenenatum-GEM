@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-11-16T17:12:08.146758+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "none for the identification (raw instrument files); COBRApy feasibility on iJL1143 for model_check only",
+    "raw": "FBAVAL_RAW_DIR/lcd",
+    "central_window_min": 0.25,
+    "baseline_flanks_min": [
+      0.55,
+      0.85
+    ],
+    "fitted": "nothing; cubic local baselines only",
+    "anchors": "glucose and glycerol retention times of each run",
+    "reuses": "results/glycerol_diagnosis/peak_16p1.csv for the re-integrated areas"
+  }
+}

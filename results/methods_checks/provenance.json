@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-11-16T17:47:16.050058+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "dfba.run_dfba_multi + cobra FBA (via scripts/flask_dynamics.py)",
+    "models": {
+      "draft": "Draft.xml",
+      "curated": "iJL1143.xml"
+    },
+    "dt_h": [
+      0.5,
+      0.25,
+      0.1
+    ],
+    "t_end": 150.0,
+    "x0_base": 0.01,
+    "diauxie_threshold_mM": 0.5,
+    "ash_fraction": 0.05,
+    "fitted_parameters": "x0 per condition at each step size; timing criterion t50"
+  }
+}

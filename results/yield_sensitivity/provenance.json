@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-11-16T17:12:34.539310+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "cobra static FBA",
+    "models": {
+      "draft": "Draft.xml",
+      "curated": "iJL1143.xml"
+    },
+    "step": 0.25,
+    "fractions": {
+      "Protein": 38.9,
+      "CELLWALL": 17.9,
+      "LIPIDS": 9.5,
+      "RNA": 9.5,
+      "DNA": 0.9,
+      "POOL": 23.3
+    },
+    "mu_max": 0.2,
+    "o2": "not limiting",
+    "fitted_parameters": "none"
+  }
+}

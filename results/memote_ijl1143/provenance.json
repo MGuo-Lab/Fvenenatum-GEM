@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-16T18:14:07.530435+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "tool": "memote 0.17.0",
+    "models": {
+      "draft": "Draft.xml",
+      "iJL1143": "iJL1143.xml"
+    },
+    "solver_timeout_s": 120,
+    "fitted_parameters": "none"
+  }
+}

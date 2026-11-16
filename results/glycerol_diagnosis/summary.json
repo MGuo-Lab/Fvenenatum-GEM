@@ -1,0 +1,245 @@
+{
+ "clock_first_online_reading_h": {
+  "Glc15": 0.138,
+  "Glc10Fru5": 1.009,
+  "Glc5Fru10": -0.006,
+  "Fru15": 0.323
+ },
+ "q_glycerol_glucose_above_2gl": {
+  "n": 20,
+  "median": 0.5240723117364066,
+  "q25": 0.42770508931663864,
+  "q75": 0.6200954515407304,
+  "r_with_do": -0.1165003581684224,
+  "do_range": [
+   117.06481157108601,
+   194.4663546205285
+  ]
+ },
+ "q_glycerol_Glc5Fru10_first_interval": [
+  0.703,
+  0.946,
+  0.477
+ ],
+ "q_glycerol_Glc15_46_to_48h": {
+  "q": [
+   0.226,
+   0.028,
+   0.057
+  ],
+  "do_mean": [
+   63.5,
+   64.2,
+   53.8
+  ]
+ },
+ "q_glycerol_after_glucose_gone": [
+  {
+   "condition": "Glc10Fru5",
+   "flask": 1,
+   "t_start": 52.25,
+   "t_end": 54.25,
+   "q_glycerol": -0.233,
+   "q_fructose": 0.462,
+   "do_mean": 20.809
+  },
+  {
+   "condition": "Glc10Fru5",
+   "flask": 2,
+   "t_start": 52.25,
+   "t_end": 54.25,
+   "q_glycerol": -0.374,
+   "q_fructose": 0.61,
+   "do_mean": 67.588
+  },
+  {
+   "condition": "Glc10Fru5",
+   "flask": 3,
+   "t_start": 52.25,
+   "t_end": 54.25,
+   "q_glycerol": -0.516,
+   "q_fructose": 1.552,
+   "do_mean": 46.894
+  },
+  {
+   "condition": "Glc10Fru5",
+   "flask": 3,
+   "t_start": 54.25,
+   "t_end": 56.25,
+   "q_glycerol": -0.084,
+   "q_fructose": 0.255,
+   "do_mean": 108.039
+  },
+  {
+   "condition": "Glc5Fru10",
+   "flask": 1,
+   "t_start": 39.667,
+   "t_end": 41.833,
+   "q_glycerol": -0.901,
+   "q_fructose": 3.311,
+   "do_mean": 106.928
+  },
+  {
+   "condition": "Glc5Fru10",
+   "flask": 1,
+   "t_start": 41.833,
+   "t_end": 44.083,
+   "q_glycerol": -0.105,
+   "q_fructose": 1.14,
+   "do_mean": 112.863
+  },
+  {
+   "condition": "Glc5Fru10",
+   "flask": 2,
+   "t_start": 39.667,
+   "t_end": 41.833,
+   "q_glycerol": -0.506,
+   "q_fructose": 1.41,
+   "do_mean": 113.703
+  },
+  {
+   "condition": "Glc5Fru10",
+   "flask": 2,
+   "t_start": 41.833,
+   "t_end": 44.083,
+   "q_glycerol": -0.162,
+   "q_fructose": 1.616,
+   "do_mean": 112.075
+  },
+  {
+   "condition": "Glc5Fru10",
+   "flask": 3,
+   "t_start": 39.667,
+   "t_end": 41.833,
+   "q_glycerol": -0.672,
+   "q_fructose": 2.763,
+   "do_mean": 116.183
+  }
+ ],
+ "matched_x_0p4_to_1p9": [
+  {
+   "condition": "Fru15",
+   "n": 9,
+   "mu_mean": 0.162,
+   "mu_sd": 0.062,
+   "do_mean": 181.046,
+   "q_glycerol_mean": 0.0,
+   "q_glycerol_sd": 0.0
+  },
+  {
+   "condition": "Glc15",
+   "n": 7,
+   "mu_mean": 0.199,
+   "mu_sd": 0.052,
+   "do_mean": 170.358,
+   "q_glycerol_mean": 0.564,
+   "q_glycerol_sd": 0.074
+  }
+ ],
+ "predictor_bias_held_out_Glc5Fru10": {
+  "biomass": -0.03,
+  "biomass-time": -0.039,
+  "glucose used": -0.105,
+  "O2 drop below 200 %": -0.056
+ },
+ "predictor_mean_rmse": {
+  "O2 drop below 200 %": 0.088,
+  "biomass": 0.072,
+  "biomass-time": 0.125,
+  "glucose used": 0.111
+ },
+ "predictor_mean_rmse_without_flask1": {
+  "O2 drop below 200 %": 0.156,
+  "biomass": 0.093,
+  "biomass-time": 0.129,
+  "glucose used": 0.114
+ },
+ "o2_budget_cstar200": {
+  "Glc15": [
+   306.0,
+   347.0,
+   334.0
+  ],
+  "Glc10Fru5": [
+   562.0,
+   314.0,
+   303.0
+  ],
+  "Glc5Fru10": [
+   305.0,
+   333.0,
+   303.0
+  ],
+  "Fru15": [
+   188.0,
+   375.0,
+   150.0
+  ]
+ },
+ "o2_budget_cstar_linear": {
+  "Glc15": [
+   220.0,
+   214.0,
+   222.0
+  ],
+  "Glc10Fru5": [
+   66.0,
+   129.0,
+   116.0
+  ],
+  "Glc5Fru10": [
+   199.0,
+   181.0,
+   174.0
+  ],
+  "Fru15": [
+   114.0,
+   223.0,
+   95.0
+  ]
+ },
+ "window_to_table_scale_glycerol": 1.4925958061396023,
+ "fructose_glycerol_window_upper_bound_gl": 0.009096606441614334,
+ "fru15_do_range_while_growing": [
+  123.179278287856,
+  193.18663172287768
+ ],
+ "ratio_16p1_to_glycerol_Glc15": {
+  "mean": 0.21834525755497378,
+  "sd": 0.015016233847460349,
+  "n": 15
+ },
+ "gem_q_sugar": {
+  "0.2": 2.125,
+  "0.27": 2.869
+ },
+ "o2_required_model_mmol_l_15gl": 152.86192686656617,
+ "gem_glycerol_at_cap_0p9_mode_C": [
+  {
+   "mu_uptake": 0.2,
+   "sugar": "glucose",
+   "glycerol": 0.455
+  },
+  {
+   "mu_uptake": 0.2,
+   "sugar": "fructose",
+   "glycerol": 0.456
+  },
+  {
+   "mu_uptake": 0.27,
+   "sugar": "glucose",
+   "glycerol": 0.603
+  },
+  {
+   "mu_uptake": 0.27,
+   "sugar": "fructose",
+   "glycerol": 0.604
+  }
+ ],
+ "gem_growth_loss_pct_at_q_0p55": {
+  "glucose 0.2": 16.4,
+  "fructose 0.2": 16.4,
+  "glucose 0.27": 12.1,
+  "fructose 0.27": 12.1
+ }
+}

@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-11-16T18:14:22.490780+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "dfba_kinetics pH chemistry (charge balance)",
+    "model": "iJL1143.xml",
+    "versions": {
+      "v0": {
+        "ammonium": false,
+        "davies": false,
+        "p_and_s": false
+      },
+      "v1": {
+        "ammonium": true,
+        "davies": false,
+        "p_and_s": false
+      },
+      "v2": {
+        "ammonium": true,
+        "davies": true,
+        "p_and_s": false
+      },
+      "v3": {
+        "ammonium": true,
+        "davies": true,
+        "p_and_s": true
+      }
+    },
+    "fitted_parameters": "none"
+  }
+}

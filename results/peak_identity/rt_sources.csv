@@ -1,0 +1,28 @@
+source,conditions,compound,rt_min
+"Lab cheat sheet, Jan 2025 (rt_library_protocol1.csv)","same protocol, single fixed table",Glucose,13.014
+"Lab cheat sheet, Jan 2025 (rt_library_protocol1.csv)","same protocol, single fixed table",Fructose,14.306
+"Lab cheat sheet, Jan 2025 (rt_library_protocol1.csv)","same protocol, single fixed table",Lactic Acid 1,14.5
+"Lab cheat sheet, Jan 2025 (rt_library_protocol1.csv)","same protocol, single fixed table",Lactic Acid 2,16.2
+"Lab cheat sheet, Jan 2025 (rt_library_protocol1.csv)","same protocol, single fixed table",Xylitol,16.294
+"Lab cheat sheet, Jan 2025 (rt_library_protocol1.csv)","same protocol, single fixed table",Succinic acid,18.1
+"Lab cheat sheet, Jan 2025 (rt_library_protocol1.csv)","same protocol, single fixed table",Glycerol,19.616
+"Lab cheat sheet, Jan 2025 (rt_library_protocol1.csv)","same protocol, single fixed table",Acetic acid,22.9
+"Lab cheat sheet, Jan 2025 (rt_library_protocol1.csv)","same protocol, single fixed table",Ethanol,31.568
+"Banks PhD thesis, Table G-3 (Protocol 1)","same protocol, standards of Jan-Feb 2025",Glucose,13.0
+"Banks PhD thesis, Table G-3 (Protocol 1)","same protocol, standards of Jan-Feb 2025",Fructose,14.3
+"Banks PhD thesis, Table G-3 (Protocol 1)","same protocol, standards of Jan-Feb 2025",Xylitol,16.3
+"Banks PhD thesis, Table G-3 (Protocol 1)","same protocol, standards of Jan-Feb 2025",Glycerol,19.6
+"Banks PhD thesis, Table G-3 (Protocol 1)","same protocol, standards of Jan-Feb 2025",Acetic acid,23.0
+"Banks PhD thesis, Table G-3 (Protocol 1)","same protocol, standards of Jan-Feb 2025",Ethanol,31.5
+"Bio-Rad Bulletin 1928, Table 4.1 (HPX-87H)","65 C, 5 mM H2SO4, 0.6 mL/min",Glucose,10.16
+"Bio-Rad Bulletin 1928, Table 4.1 (HPX-87H)","65 C, 5 mM H2SO4, 0.6 mL/min",Xylose,10.39
+"Bio-Rad Bulletin 1928, Table 4.1 (HPX-87H)","65 C, 5 mM H2SO4, 0.6 mL/min",Fructose,10.39
+"Bio-Rad Bulletin 1928, Table 4.1 (HPX-87H)","65 C, 5 mM H2SO4, 0.6 mL/min",Arabinose,11.34
+Phenomenex Rezex RHM H+ chart (HPX-87H equivalent),"80 C, water, 0.6 mL/min",Glucose,9.62
+Phenomenex Rezex RHM H+ chart (HPX-87H equivalent),"80 C, water, 0.6 mL/min",Mannitol,10.59
+Phenomenex Rezex RHM H+ chart (HPX-87H equivalent),"80 C, water, 0.6 mL/min",Sorbitol,10.83
+Phenomenex Rezex RHM H+ chart (HPX-87H equivalent),"80 C, water, 0.6 mL/min",Ribitol,11.11
+Phenomenex Rezex RHM H+ chart (HPX-87H equivalent),"80 C, water, 0.6 mL/min",Arabinose,11.24
+Phenomenex Rezex RHM H+ chart (HPX-87H equivalent),"80 C, water, 0.6 mL/min",Ribose,11.42
+Phenomenex Rezex RHM H+ chart (HPX-87H equivalent),"80 C, water, 0.6 mL/min",Xylitol,11.78
+Phenomenex Rezex RHM H+ chart (HPX-87H equivalent),"80 C, water, 0.6 mL/min",Erythritol,12.14

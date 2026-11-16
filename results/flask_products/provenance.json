@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-11-16T17:11:40.478123+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "none (measured data only)",
+    "nominal_sugar_gl": 15.0,
+    "workbook_lactate": "left out; unidentified 16.1 min peak, see results/flask_hplc",
+    "fitted_parameters": "none"
+  }
+}

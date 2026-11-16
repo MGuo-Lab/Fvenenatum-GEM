@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-11-16T17:31:08.462888+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "dfba.run_dfba_multi + cobra FBA",
+    "models": {
+      "draft": "Draft.xml",
+      "curated": "iJL1143.xml"
+    },
+    "settings": [
+      "base",
+      "sugar_order",
+      "lag_only",
+      "lag_shared",
+      "lag_each"
+    ],
+    "mu_max": 0.2,
+    "km_mM": 0.26,
+    "otr_mmol_L_h": 46.875,
+    "dt": 0.5,
+    "t_end": 150.0,
+    "x0_base": 0.01,
+    "diauxie_threshold_mM": 0.5,
+    "fitted_parameters": "x0 only (per condition, or one shared); timing criterion t50"
+  }
+}

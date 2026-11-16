@@ -1,0 +1,127 @@
+{
+ "fig1_reconstruction": {
+  "sources": [
+   "model_versions_qc"
+  ],
+  "provenance": {
+   "model_versions_qc": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   }
+  }
+ },
+ "fig2_curation_effects": {
+  "sources": [
+   "model_versions_qc",
+   "flask_products"
+  ],
+  "provenance": {
+   "model_versions_qc": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   },
+   "flask_products": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   }
+  }
+ },
+ "fig3_fermentation_time_courses": {
+  "sources": [
+   "flask_dynamics"
+  ],
+  "provenance": {
+   "flask_dynamics": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   }
+  }
+ },
+ "fig4_products": {
+  "sources": [
+   "flask_products",
+   "flask_hplc"
+  ],
+  "provenance": {
+   "flask_products": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   },
+   "flask_hplc": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   }
+  }
+ },
+ "fig5_ph": {
+  "sources": [
+   "ph_validation"
+  ],
+  "provenance": {
+   "ph_validation": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   }
+  }
+ },
+ "figS2_yield_sensitivity": {
+  "sources": [
+   "yield_sensitivity",
+   "flask_products"
+  ],
+  "provenance": {
+   "yield_sensitivity": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   },
+   "flask_products": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   }
+  }
+ },
+ "figS3_arabitol_identity": {
+  "sources": [
+   "peak_identity"
+  ],
+  "provenance": {
+   "peak_identity": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   }
+  }
+ },
+ "figS1_lag": {
+  "sources": [
+   "lag_x0_fit"
+  ],
+  "provenance": {
+   "lag_x0_fit": {
+    "Fvenenatum-GEM": [
+     "49974fd",
+     false
+    ]
+   }
+  }
+ }
+}

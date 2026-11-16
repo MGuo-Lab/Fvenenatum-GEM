@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-11-16T17:12:00.704323+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "COBRApy FBA and flux variability analysis (iJL1143), and measured data",
+    "model": "iJL1143.xml",
+    "fitted": "saturating curves in predictors.csv only; nothing else",
+    "kla_note": "O2 scale is the paper's 46.9 mmol/L/h at 200 %",
+    "inputs": [
+      "results/flask_hplc/unidentified.csv",
+      "raw PreSens files",
+      "raw HPLC .lcd files"
+    ]
+  }
+}

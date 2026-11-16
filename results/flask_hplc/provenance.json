@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-11-16T17:11:37.934678+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "none (raw instrument files)",
+    "raw": "lcd/TV",
+    "lactic_window_min": [
+      18.92,
+      19.32
+    ],
+    "unidentified_windows_min": {
+      "peak_14p8": [
+        14.55,
+        14.95
+      ],
+      "peak_16p1": [
+        15.95,
+        16.25
+      ]
+    },
+    "fitted_parameters": "none"
+  }
+}

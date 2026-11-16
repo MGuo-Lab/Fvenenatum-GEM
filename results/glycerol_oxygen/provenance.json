@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-11-16T17:12:56.776294+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "COBRApy FBA and flux variability analysis",
+    "models": {
+      "Draft": "Draft.xml",
+      "Curated": "iJL1143.xml"
+    },
+    "o2_cap_fractions": [
+      1.0,
+      0.8,
+      0.6,
+      0.4,
+      0.2
+    ],
+    "mu_max_per_h": 0.2,
+    "input": "results/flask_products",
+    "fitted": "nothing"
+  }
+}

@@ -1,0 +1,8 @@
+compound,exit,max_per_glucose_mol,other_carbon_uptakes_closed
+D-Arabitol (extracellular),BOUNDARY_AOLe,0.985765329644998,1
+L-Arabitol (extracellular),BOUNDARY_LAOLe,0.9865651503469582,1
+L-Arabinose (extracellular),BOUNDARY_LARABe,1.0802659349936679,1
+D-Arabinose (extracellular),BOUNDARY_ARABe,0.0,1
+Xylitol (extracellular),BOUNDARY_XOLe,0.9865651503469524,1
+D-Mannitol (extracellular),BOUNDARY_MNTe,0.8392031480570583,1
+Glycerol (extracellular),BOUNDARY_GLe,1.5205882352941218,1

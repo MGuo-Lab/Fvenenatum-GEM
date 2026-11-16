@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-11-16T17:11:47.672306+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "models": {
+      "draft": "Draft.xml",
+      "curated": "iJL1143.xml"
+    },
+    "fitted_parameters": "none"
+  }
+}

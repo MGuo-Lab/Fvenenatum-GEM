@@ -1,0 +1,42 @@
+{
+ "response_window_area_per_gl_ul": 1825.3869469165759,
+ "lactic_standard_peaks": {
+  "15.4": 13383.0,
+  "16.3": 15663.0,
+  "19.1": 88776.0
+ },
+ "lactic_standard_total_area_per_gl_ul": 11782.160067558289,
+ "lactic_upper_gl_max": {
+  "Fru15": 0.0017280735719042068,
+  "Glc10Fru5": 0.001184448205940361,
+  "Glc15": 0.0012848490198647262,
+  "Glc5Fru10": 0.002952877666431028
+ },
+ "injections_checked": 149,
+ "lowest_control": 918.7101818124438,
+ "workbook_lactate_raw_rt": {
+  "Glc10Fru5": [
+   16.077966666666665,
+   16.093383333333332
+  ],
+  "Glc15": [
+   16.081216666666666,
+   16.10895
+  ]
+ },
+ "workbook_lactate_exact_matches": 16,
+ "workbook_lactate_values": 18,
+ "peak_16p1_fru15_blank": {
+  "mean": -76.28325950965974,
+  "sd": 41.05626300965025,
+  "min": -165.39413906058957,
+  "max": 30.65084022626363,
+  "n": 36
+ },
+ "peak_16p1_area_over_table_glc15_median": 1.0240075417028929,
+ "single_standard_factor_per_gl_ul": {
+  "Acetic": 5170.949678222338,
+  "EtOH": 4719.946274856726,
+  "Gly": 13719.387949208418
+ }
+}

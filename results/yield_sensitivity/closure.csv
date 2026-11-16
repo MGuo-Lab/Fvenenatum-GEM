@@ -1,0 +1,9 @@
+model,parameter,sugar,yield_base_gg,yield_measured_gg,factor_to_reach_measured
+draft,Growth-associated ATP,glucose,0.6103109350044053,0.496124031,2.650202442936632
+draft,Growth-associated ATP,fructose,0.6103109350043954,0.5318233295555556,2.0581350772110714
+draft,Non-growth-associated ATP,glucose,0.6103109350044053,0.496124031,
+draft,Non-growth-associated ATP,fructose,0.6103109350043954,0.5318233295555556,
+curated,Growth-associated ATP,glucose,0.5412064252892919,0.496124031,1.4436165894072344
+curated,Growth-associated ATP,fructose,0.5419832853904255,0.5318233295555556,1.092934195251522
+curated,Non-growth-associated ATP,glucose,0.5412064252892919,0.496124031,3.7058991808498907
+curated,Non-growth-associated ATP,fructose,0.5419832853904255,0.5318233295555556,1.6074268076783016

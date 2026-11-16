@@ -1,0 +1,325 @@
+{
+ "draft": {
+  "file": "Draft.xml",
+  "reactions": 2321,
+  "genes": 1034,
+  "open_exports": 377,
+  "biomass_weight": 0.9999999999999911,
+  "gpr": {
+   "ec_consistent": 417,
+   "ec_conflict": 171,
+   "gene_ec_unannotated": 350,
+   "central": {
+    "hexokinase": {
+     "bounds": [
+      0.0,
+      1000.0
+     ],
+     "genes": [
+      "Phosphotransferase",
+      "Phosphotransferase"
+     ]
+    },
+    "FBP aldolase": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Fructose-bisphosphate aldolase"
+     ]
+    },
+    "GAPDH": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Glyceraldehyde-3-phosphate dehydrogenase"
+     ]
+    },
+    "phosphoglycerate kinase": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Phosphoglycerate kinase"
+     ]
+    },
+    "enolase": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Enolase"
+     ]
+    },
+    "pyruvate kinase": {
+     "bounds": [
+      0.0,
+      1000.0
+     ],
+     "genes": [
+      "Pyruvate kinase"
+     ]
+    },
+    "citrate synthase": {
+     "bounds": [
+      0.0,
+      1000.0
+     ],
+     "genes": [
+      "Citrate synthase"
+     ]
+    },
+    "G6P dehydrogenase": {
+     "bounds": [
+      0.0,
+      1000.0
+     ],
+     "genes": [
+      "Glucose-6-phosphate 1-dehydrogenase"
+     ]
+    },
+    "phosphoketolase": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Xylulose 5-phosphate/Fructose 6-phosphate phosphoketolase N-"
+     ]
+    },
+    "acetate kinase": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Probable acetate kinase"
+     ]
+    }
+   }
+  },
+  "yield_gg": {
+   "glucose": 0.59921267753092,
+   "fructose": 0.599212677530914,
+   "sucrose": 0.6434349999129784,
+   "xylose": 0.5943898770649829
+  },
+  "max_atp_per_glucose": 49.11340206185682,
+  "energy_leaks": [
+   [
+    "route NADH->NADPH (c)",
+    1000.0
+   ],
+   [
+    "route NADHm->NADPHm",
+    1000.0
+   ]
+  ],
+  "o2_profile": [
+   {
+    "o2_fraction": 1.0,
+    "yield_gg": 0.5992,
+    "ethanol_min": 0.0,
+    "ethanol_max": -0.0,
+    "glycerol_min": 0.0,
+    "glycerol_max": -0.0,
+    "acetate_min": 0.0,
+    "acetate_max": -0.0,
+    "pyruvate_min": 0.0,
+    "pyruvate_max": -0.0,
+    "succinate_min": 0.0,
+    "succinate_max": -0.0
+   },
+   {
+    "o2_fraction": 0.6,
+    "yield_gg": 0.489,
+    "ethanol_min": 0.0,
+    "ethanol_max": 0.0,
+    "glycerol_min": 0.0,
+    "glycerol_max": 0.0,
+    "acetate_min": 0.0,
+    "acetate_max": 0.0,
+    "pyruvate_min": 0.0,
+    "pyruvate_max": 0.0,
+    "succinate_min": 0.0,
+    "succinate_max": 0.0
+   },
+   {
+    "o2_fraction": 0.3,
+    "yield_gg": 0.4064,
+    "ethanol_min": 0.0,
+    "ethanol_max": 0.0,
+    "glycerol_min": 0.0,
+    "glycerol_max": 0.0,
+    "acetate_min": 0.0,
+    "acetate_max": 0.0,
+    "pyruvate_min": 0.0,
+    "pyruvate_max": 0.0,
+    "succinate_min": 0.0,
+    "succinate_max": 0.0
+   }
+  ]
+ },
+ "curated": {
+  "file": "iJL1143.xml",
+  "reactions": 2264,
+  "genes": 1143,
+  "open_exports": 47,
+  "biomass_weight": 0.9999999999999911,
+  "gpr": {
+   "ec_consistent": 452,
+   "ec_conflict": 205,
+   "gene_ec_unannotated": 351,
+   "central": {
+    "hexokinase": {
+     "bounds": [
+      0.0,
+      1000.0
+     ],
+     "genes": [
+      "Phosphotransferase",
+      "Phosphotransferase"
+     ]
+    },
+    "FBP aldolase": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Fructose-bisphosphate aldolase"
+     ]
+    },
+    "GAPDH": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Glyceraldehyde-3-phosphate dehydrogenase"
+     ]
+    },
+    "phosphoglycerate kinase": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Phosphoglycerate kinase"
+     ]
+    },
+    "enolase": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Enolase"
+     ]
+    },
+    "pyruvate kinase": {
+     "bounds": [
+      0.0,
+      1000.0
+     ],
+     "genes": [
+      "Pyruvate kinase"
+     ]
+    },
+    "citrate synthase": {
+     "bounds": [
+      0.0,
+      1000.0
+     ],
+     "genes": [
+      "Citrate synthase"
+     ]
+    },
+    "G6P dehydrogenase": {
+     "bounds": [
+      0.0,
+      1000.0
+     ],
+     "genes": [
+      "Glucose-6-phosphate 1-dehydrogenase"
+     ]
+    },
+    "phosphoketolase": {
+     "bounds": [
+      0.0,
+      1000.0
+     ],
+     "genes": [
+      "Xylulose 5-phosphate/Fructose 6-phosphate phosphoketolase N-"
+     ]
+    },
+    "acetate kinase": {
+     "bounds": [
+      -1000.0,
+      1000.0
+     ],
+     "genes": [
+      "Probable acetate kinase"
+     ]
+    }
+   }
+  },
+  "yield_gg": {
+   "glucose": 0.5224659656906422,
+   "fructose": 0.5231692047877048,
+   "sucrose": 0.5694038601542764,
+   "xylose": 0.514610020548344
+  },
+  "max_atp_per_glucose": 29.868852459016157,
+  "energy_leaks": [],
+  "o2_profile": [
+   {
+    "o2_fraction": 1.0,
+    "yield_gg": 0.5225,
+    "ethanol_min": 0.0,
+    "ethanol_max": -0.0,
+    "glycerol_min": 0.0,
+    "glycerol_max": -0.0,
+    "acetate_min": 0.0,
+    "acetate_max": -0.0,
+    "pyruvate_min": 0.0,
+    "pyruvate_max": -0.0,
+    "succinate_min": 0.0,
+    "succinate_max": 0.0
+   },
+   {
+    "o2_fraction": 0.6,
+    "yield_gg": 0.3224,
+    "ethanol_min": 0.0,
+    "ethanol_max": -0.0,
+    "glycerol_min": 0.0,
+    "glycerol_max": -0.0,
+    "acetate_min": 0.0,
+    "acetate_max": -0.0,
+    "pyruvate_min": 0.0,
+    "pyruvate_max": -0.0,
+    "succinate_min": 0.0,
+    "succinate_max": 0.0
+   },
+   {
+    "o2_fraction": 0.3,
+    "yield_gg": 0.1645,
+    "ethanol_min": 0.6913,
+    "ethanol_max": 0.6913,
+    "glycerol_min": 0.0,
+    "glycerol_max": 0.0,
+    "acetate_min": 0.0,
+    "acetate_max": 0.0,
+    "pyruvate_min": 0.0,
+    "pyruvate_max": 0.0,
+    "succinate_min": 0.0,
+    "succinate_max": 0.0
+   }
+  ]
+ }
+}

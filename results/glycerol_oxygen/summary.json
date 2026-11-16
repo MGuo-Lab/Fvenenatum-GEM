@@ -1,0 +1,83 @@
+{
+  "timing": {
+    "Glc15": {
+      "peak_gl": 0.6115717539863326,
+      "peak_t_h": 48.0,
+      "peak_do_mean": 28.000000896571198,
+      "last_sample_do_ge_100": {
+        "t_h": 46.0,
+        "glycerol_gl": 0.5445760566945078,
+        "share_of_peak": 0.8904532512250035,
+        "do_mean": 104.6058938305743,
+        "do_min": 98.3958121393359
+      },
+      "biomass_last_sample_with_glucose": 5.304287963986318,
+      "biomass_first_sample_without_glucose": 7.286000000530573,
+      "do_min_any_sample": 24.0711928242943
+    },
+    "Glc10Fru5": {
+      "peak_gl": 0.45477600607441154,
+      "peak_t_h": 48.5,
+      "peak_do_mean": 100.71546638449503,
+      "last_sample_do_ge_100": {
+        "t_h": 48.5,
+        "glycerol_gl": 0.45477600607441154,
+        "share_of_peak": 1.0,
+        "do_mean": 100.71546638449503,
+        "do_min": 39.0190537362511
+      },
+      "biomass_last_sample_with_glucose": 2.3570888905839205,
+      "biomass_first_sample_without_glucose": 5.856738059545555,
+      "do_min_any_sample": 14.0799494242198
+    },
+    "Glc5Fru10": {
+      "peak_gl": 0.4239736775499873,
+      "peak_t_h": 37.33333333,
+      "peak_do_mean": 156.38322390478334,
+      "last_sample_do_ge_100": {
+        "t_h": 37.33333333,
+        "glycerol_gl": 0.4239736775499873,
+        "share_of_peak": 1.0,
+        "do_mean": 156.38322390478334,
+        "do_min": 153.719099594825
+      },
+      "biomass_last_sample_with_glucose": 1.2571410122777282,
+      "biomass_first_sample_without_glucose": 2.138136685145096,
+      "do_min_any_sample": 99.7019039495091
+    }
+  },
+  "o2_cap": {
+    "Draft, uptake bound": {
+      "glycerol_max_at_optimum": 7.298292248970464e-14,
+      "glycerol_max_at_99pct_growth": 0.046128157121906974,
+      "ethanol_max": 1.0217609148558515e-13,
+      "acetaldehyde_max": 1.0217609148558535e-13,
+      "acetate_max": 1.70293485809312e-13,
+      "pyruvate_max": 1.0217609148558659e-13
+    },
+    "Draft, uptake fixed": {
+      "glycerol_max_at_optimum": 5.254770419258161e-13,
+      "glycerol_max_at_99pct_growth": 0.04612815712187685,
+      "ethanol_max": 7.356678586960746e-13,
+      "acetaldehyde_max": 7.356678586961042e-13,
+      "acetate_max": 1.226113097826749e-12,
+      "pyruvate_max": 7.356678586960923e-13
+    },
+    "Curated, uptake bound": {
+      "glycerol_max_at_optimum": 1.8242831927470577e-13,
+      "glycerol_max_at_99pct_growth": 0.07744466180833258,
+      "ethanol_max": 2.442180134392488,
+      "acetaldehyde_max": 3.3098269958776285,
+      "acetate_max": 5.340880155788947e-12,
+      "pyruvate_max": 4.115104382327943e-13
+    },
+    "Curated, uptake fixed": {
+      "glycerol_max_at_optimum": 6.07822313852467e-14,
+      "glycerol_max_at_99pct_growth": 0.07744466180833084,
+      "ethanol_max": 2.4421801344366005,
+      "acetaldehyde_max": 3.309826995877221,
+      "acetate_max": 6.213066018497322e-13,
+      "pyruvate_max": 1.2156446277050448e-13
+    }
+  }
+}

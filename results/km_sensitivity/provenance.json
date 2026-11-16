@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-11-16T18:01:09.244912+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "fbaval.simulate.run_dfba (gem/dfba.py)",
+    "models": {
+      "draft": "Draft.xml",
+      "curated": "iJL1143.xml"
+    },
+    "km_mM": [
+      0.025,
+      0.26,
+      4.5
+    ],
+    "dt_h": 0.5,
+    "t_end_h": 150.0,
+    "x0": "per-condition fit, results/flask_dynamics/metrics.csv",
+    "diauxie_threshold_mM": 0.5,
+    "fitted_parameters": "none"
+  }
+}

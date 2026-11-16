@@ -150,7 +150,7 @@ reciprocal best hits from blastp, OrthoFinder across 10 proteomes and `merge_ort
 OrthoFinder and DIAMOND and was run on a computing cluster.
 
 **Analyses and figures.** `bash analysis/run_analyses.sh` runs every analysis in dependency order and then draws the
-figures; on 60 cores it takes about 20 min. Single analyses run as `python scripts/<name>.py` from `analysis/`.
+figures; on 60 cores it takes about 1 h, most of it for MEMOTE and the step-size checks. Single analyses run as `python scripts/<name>.py` from `analysis/`.
 Three analyses (`flask_hplc`, `glycerol_diagnosis` and `peak_identity`) read the raw instrument files, that is the
 Shimadzu LabSolutions HPLC data files and the PreSens exports. These files (about 1 GB) are not part of the
 repository; `run_analyses.sh` skips the three steps unless `FBAVAL_RAW_DIR` points to them, and the later steps then

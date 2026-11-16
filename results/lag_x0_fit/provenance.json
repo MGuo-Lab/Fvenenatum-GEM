@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-11-16T17:22:32.468382+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "dfba.run_dfba_multi + cobra FBA",
+    "model": "iJL1143.xml",
+    "mu_max": 0.2,
+    "km_mM": 0.26,
+    "otr_mmol_L_h": 46.875,
+    "dt": 0.5,
+    "t_end": 150.0,
+    "x0_apriori": 0.01,
+    "x0_grid": [
+      1e-06,
+      3.162277660168379e-06,
+      9.999999999999999e-06,
+      3.1622776601683795e-05,
+      0.0001,
+      0.00031622776601683794,
+      0.001,
+      0.0031622776601683794,
+      0.01,
+      0.03162277660168379
+    ],
+    "uptake_rule": "fits: glucose-first in mixed flasks (threshold 0.5 mM); a priori: simultaneous",
+    "fitted_parameters": "x0 only (per condition, and one shared); timing criterion t50",
+    "conditions": [
+      "Glc15",
+      "Glc10Fru5",
+      "Glc5Fru10",
+      "Fru15"
+    ]
+  }
+}

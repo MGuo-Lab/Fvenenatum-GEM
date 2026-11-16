@@ -1,0 +1,43 @@
+{
+ "decoder_max_plot_r": {
+  "Arabitol_1 g$L_CitricAcid_Cal_and_UnknownPeakIdentification_080525_08052025_013.lcd": 0.9999999999999998,
+  "20261005_LA_2gL001_05102026_012.lcd": 1.0,
+  "19012026_Glu_15gpL_TP8_A3_22012026_027.lcd": 1.0
+ },
+ "delay_min_by_period": {
+  "Dec 2024": 0.30826570249014473,
+  "May 2025": 0.3223085060908886,
+  "Oct 2026": 0.30628843983146403
+ },
+ "glucose_rt_may2025_anchor": 13.299866666666667,
+ "flask_glc15": {
+  "n": 11,
+  "rt_median": 16.101183333333335,
+  "uv210_ri_median": -0.09423297926436046,
+  "uv200_ri_median": 0.19410329066131302,
+  "uv195_ri_median": 1.0449043801974396,
+  "fwhm_median": 0.5091995983655391
+ },
+ "uv210_expected_if_acid_area_ratio": 9.304962646924903,
+ "anchored_cross_check": {
+  "arabitol_may2025_predicted_from_10C_system": 16.168326796880624,
+  "arabitol_may2025_measured": 16.128216666666667,
+  "miss_min": 0.04011013021395726
+ },
+ "responses": {
+  "arabitol_window_area_per_gl_ul_may2025_1gl": 7926.930977296482,
+  "arabitol_window_area_per_gl_ul_may2025_0p1gl": 7547.0871137158065,
+  "arabitol_window_area_per_gl_ul_dec2024_2gl": 12321.100071179235,
+  "central_area_of_1gl_polyol_standards_may2025": {
+   "Xylitol": 15469.99120840753,
+   "Sorbitol": 14286.229035180031,
+   "Mannitol": 14900.735437463545,
+   "Arabitol": 10158.558590424573
+  },
+  "glycerol_window_area_per_gl_ul": 9432.976097684623
+ },
+ "xylitol_rt_jan2025_vs_may2025": [
+  16.293516666666665,
+  16.63655
+ ]
+}

@@ -1,0 +1,15 @@
+Input,Value,Origin,Source
+Template model,"iJB1325 (A. niger), CBS 513.88 version",literature,"Brandl et al. 2018, Additional file 3"
+Biomass composition,"Fractions of growing mycelium (Supplementary Table S2), 1 g mmol⁻¹","measured (protein, RNA), derived (others)",Towersey et al. 1977; Trinci 1992; FDA GRN 000091; Pedersen et al. 1999
+Non-growth-associated maintenance,1.9 mmol ATP gDW⁻¹ h⁻¹,literature (A. niger),Andersen et al. 2008
+Growth-associated maintenance,61 mmol ATP gDW⁻¹,literature (A. niger),Andersen et al. 2008
+P/O ratio,"2.46 for NADH, 1.64 for succinate",literature (template),"12 and 8 protons pumped, 4.88 per cytosolic ATP"
+Acid export cost,1 ATP per negative charge at pH 7,literature,"van Maris et al. 2004a, 2004b; Abbott et al. 2009"
+Growth rate that sets the maximum sugar uptake,0.20 h⁻¹,literature,"growth rate of the Quorn process, 0.17-0.20 h⁻¹, Wiebe 2002"
+Sugar Km,0.26 mM,assumed,"between the glucose (0.025 mM) and fructose (4.5 mM) values of A. niger MstA, van Kuyk et al. 2004"
+Maximum oxygen transfer rate,46.9 mmol L⁻¹ h⁻¹,measured (kLa),"kLa 96 h⁻¹, 200% air (Vinestock & Guo 2026)"
+Initial biomass,0.01 g L⁻¹ in the base settings; fitted per condition,assumed; fitted,"time to half final biomass, which sets the lag time"
+Sequential sugar uptake,other sugars blocked above 0.5 mM glucose,assumed,"carbon catabolite repression, Adnan et al. 2018"
+Initial sugars,"15 g L⁻¹ in total, as prepared",measured (recipe),Vinestock & Guo 2026
+Medium,"KH₂PO₄ 203 mM, NH₄Cl 76 mM",measured (recipe),"Vinestock & Guo 2026 (KH₂PO₄), Whittaker 2022 (NH₄Cl)"
+Ionic strength,"0.446 M, phosphate pKa₂′ 6.79",measured (recipe),calculated with the Davies equation and the charge balance

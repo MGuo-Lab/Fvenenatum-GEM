@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-11-16T17:17:09.894664+00:00",
+  "repos": {
+    "Fvenenatum-GEM": {
+      "commit": "49974fd8e7e1f3400bfd0637c52f43b78de5b53d",
+      "dirty": false
+    }
+  },
+  "params": {
+    "engine": "fbaval.simulate.run_dfba (gem/dfba.py)",
+    "draft": "Draft.xml",
+    "curated": "iJL1143.xml",
+    "x0_gl": 0.01,
+    "dt_h": 0.5,
+    "uptake": "sequential",
+    "fitted_parameters": "none"
+  }
+}

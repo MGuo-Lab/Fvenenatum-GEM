@@ -1,0 +1,13 @@
+Property,Draft,Curated
+Reactions,"2,321","2,264"
+Metabolites,"1,818","1,797"
+Genes,"1,034","1,143"
+Exchange reactions open for secretion,377,47
+Biomass weight (g mmol⁻¹),1,1
+Gene associations whose gene EC matches the reaction EC,417,452
+Gene associations whose gene EC shares only the first three levels,93,127
+Gene associations whose gene EC differs,78,78
+Maximum ATP yield (mol ATP per mol glucose),49.1,29.9
+Energy-generating cycle tests failed,2,0
+Aerobic biomass yield on glucose (g g⁻¹),0.599,0.522
+Aerobic biomass yield on fructose (g g⁻¹),0.599,0.523
